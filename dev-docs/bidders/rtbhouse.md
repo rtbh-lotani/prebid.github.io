@@ -14,6 +14,7 @@ schain_supported: true
 userIds: id5Id, identityLink, pubProvidedId
 pbs_app_supported: true
 ortb_blocking_supported: partial
+sidebarType: 1
 ---
 
 
