@@ -2,7 +2,7 @@
  layout: page_v2
  title: RTB House Prime Audience Realtime Data Module
  display_name: RTB House Prime Audience
- description: Injects Prime Audience advertiser tagging script
+ description: Injects Prime Audience tagging script
  page_type: module
  module_type: rtd
  module_code : rtbhPARtdProvider
@@ -18,7 +18,7 @@
 {:toc}
 
  ## Overview
-This module is intended to be used by Prime Audience (https://primeaudience.com) partners and puts dedicated advertiser tagging script onto publisher's web page.
+This module is intended to be used by Prime Audience (https://primeaudience.com) partners and puts dedicated tagging script onto publisher's web page.
 
   {% include dev-docs/loads-external-javascript.md %}
 
