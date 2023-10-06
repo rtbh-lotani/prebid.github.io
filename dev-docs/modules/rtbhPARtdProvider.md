@@ -1,15 +1,15 @@
 ---
- layout: page_v2
- title: RTB House Prime Audience Realtime Data Module
- display_name: RTB House Prime Audience
- description: Injects Prime Audience tagging script
- page_type: module
- module_type: rtd
- module_code : rtbhPARtdProvider
- enable_download : true
- vendor_specific: true
- sidebarType : 1
- ---
+layout: page_v2
+title: RTB House Prime Audience Realtime Data Module
+display_name: RTB House Prime Audience
+description: Injects Prime Audience tagging script
+page_type: module
+module_type: rtd
+module_code : rtbhPARtdProvider
+enable_download : true
+vendor_specific: true
+sidebarType : 1
+---
 
  # RTB House Prime Audience Realtime Data Module
 {:.no_toc}
