@@ -61,4 +61,4 @@ This module is configured as part of the `realTimeData.dataProviders` object.
 tagId is publisher specific customer ID which will be provided to the publisher by Prime Audience.
 
 ## Disclosure
-This module loads external code using the passed parameter (params.tagId). The code is loaded from tags.creativecdn.com domain.
+This module loads external code using the passed parameter (`params.tagId`). The code is loaded from `tags.creativecdn.com` domain.
